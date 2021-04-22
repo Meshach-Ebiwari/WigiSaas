@@ -5,7 +5,7 @@ This is a modern and sleek website crafted using [React.js](https://reactjs.org/
 
 
 
-LIVE PREVIEW
+[LIVE PREVIEW](https://wigisaas.netlify.app/)
 ![LandingPage](https://user-images.githubusercontent.com/54145202/115663317-3ce3f300-a338-11eb-89bd-14deaee76a95.png)
 
 
